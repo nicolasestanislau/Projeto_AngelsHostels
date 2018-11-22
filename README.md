@@ -1,3 +1,3 @@
 # Projeto_AngelsHostels
  Page using HTML + CSS;
- Web design responsivo
+ Web design responsive
